@@ -38,7 +38,7 @@ set title                " change the terminal's title
 set visualbell           " don't beep
 set noerrorbells         " don't beep
 
-set guifont=Consolas\ 12
+set guifont=Monospace\ 10
 
 " set filetype stuff to on
 filetype on
