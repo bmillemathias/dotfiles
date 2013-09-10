@@ -1,11 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/home/baptiste/.gconf/apps/seahorse'
-let g:netrw_dirhist_2='/home/baptiste/Code/django/cms/search'
-let g:netrw_dirhist_3='/home/baptiste/Code/ubuntu/bluez-maverick/debian'
-let g:netrw_dirhist_4='/home/baptiste/Code/site/www.damnpeople.fr'
-let g:netrw_dirhist_5='/home/baptiste/Code/site/www.damnpeople.fr/articles'
-let g:netrw_dirhist_6='/home/baptiste/Code/ubuntu/rhythmbox/rhythmbox-0.13.2/debian/patches'
-let g:netrw_dirhist_7='/home/baptiste/.ssh'
-let g:netrw_dirhist_8='/home/baptiste/Code/displayHeader'
-let g:netrw_dirhist_9='/home/baptiste/Code/gnome-dictionary/help/C'
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/etc'
+let g:netrw_dirhist_2='/etc/PackageKit'
+let g:netrw_dirhist_3='/etc'
+let g:netrw_dirhist_4='/etc/NetworkManager'
