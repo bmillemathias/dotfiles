@@ -14,13 +14,15 @@ nmap <silent> <leader>sv :so $MYVIMRC<CR>
 set hidden
 
 "set nowrap        " don't wrap lines
-set tabstop=4     " a tab is four spaces
+set tabstop=2     " a tab is two spaces
+set shiftwidth=2  " number of spaces to use for autoindenting
+set softtabstop=2
+set expandtab
 set backspace=indent,eol,start
                   " allow backspacing over everything in insert mode
 set autoindent    " always set autoindenting on
 set copyindent    " copy the previous indentation on autoindenting
 set number        " always show line numbers
-set shiftwidth=4  " number of spaces to use for autoindenting
 set shiftround    " use multiple of shiftwidth when indenting with '<' and '>'
 set showmatch     " set show matching parenthesis
 set ignorecase    " ignore case when searching
